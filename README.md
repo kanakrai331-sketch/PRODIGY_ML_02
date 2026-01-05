@@ -46,35 +46,22 @@ Visualization of clusters
 * K-Means clustering helps businesses make data-driven marketing decisions.
   
 # 🗂️ **Project Structure**
-Copy code
 
-PRODIGY_ML_02/
-│
-
-├── Task_02_Customer_Segmentation.ipynb
-
-├── README.md
-
-├── images/
-
-  ├── elbow_method.png
-
-   ├── customer_clusters.png
-
-
-└── dataset/
-
-    └── Mall_Customers.csv
+* Data/ → Keep datasets here.
+* Notebooks/ → For step-by-step analysis and modeling.
+* Scripts/ → For reusable or automated code.
+* Models/ → Store trained models.
+* Images/ → Plots, diagrams, or visual results.
     
 # 🛠️ **Technologies Used**
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
 
 # 📌 **Conclusion**
 
@@ -83,12 +70,12 @@ It highlights how unsupervised learning can be used to extract meaningful insigh
 
 # 🙏 **Acknowledgement**
 This task is completed as part of the Machine Learning Internship at Prodigy Infotech.
-I am grateful for the opportunity to enhance my skills through practical projects.
+I am grateful for the opportunity to enhance my skills through practical projects.I would also like to thank Prodigy Infoteh for providing the oppotunity to enhance my machine learning skills.
 
 # 🚀 **Usage Instructions**
 
 Download or clone this repository:
 
-git clone 
+git clone https://github.com/kanakrai331-sketch/PRODIGY_ML_02
 
 
